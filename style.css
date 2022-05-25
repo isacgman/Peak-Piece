@@ -1,1 +1,7 @@
 body{background-color:lightyellow;}
+h3{color:darkred;}
+h1{color:darkblue;}
+div{display: inline-grid;
+    border: 2px solid black;
+    padding: 10px;
+   }
